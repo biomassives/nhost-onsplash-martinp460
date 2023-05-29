@@ -1,5 +1,7 @@
 ![React version](https://img.shields.io/github/package-json/dependency-version/MartinP460/onsplash/react)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3586e172-6987-4cc7-a916-a159eaf18221/deploy-status)](https://app.netlify.com/sites/cheery-dasik-b361a9/deploys)
+
 ![Logo](/public/images/onsplash-logotype.png)
 
 Onsplash is a clone/recreation of the image-sharing platform _[Unsplash](https://unsplash.com/)_. The goal of Onsplash is to improve my personal skills in developing frontend applications.
